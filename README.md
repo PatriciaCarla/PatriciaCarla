@@ -1,0 +1,5 @@
+- 👋 Oi, Eu sou a @PatriciaCarla;
+- 👀 Eu me interesso por Java;
+- 🌱 Atualmente estou aprendendo Git e Github;
+- 🏆 Estou em busca de oportunidades para trabalhar com Desenvolvimento;
+- 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
