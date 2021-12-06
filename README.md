@@ -1,5 +1,6 @@
 - 👋 Oi, Eu sou a Patricia Carla;
+- 💼 Trabalho com Desenvolvimento Salesforce;
 - 👀 Eu me interesso por Java;
 - 🌱 Atualmente estou aprendendo Git e Github;
-- 🏆 Estou em busca de oportunidades para trabalhar com Desenvolvimento;
+- 🏆 Tenho experiência comm Desenvolvimento Funcional;
 - 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
