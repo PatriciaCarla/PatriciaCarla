@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou a Patricia Carla;
+- 👋 Oi, Eu sou a Patricia Soares;
 - 💼 Trabalho com Desenvolvimento Salesforce;
 - 👀 Eu me interesso por Java;
 - 🌱 Atualmente estou aprendendo Git e Github;
