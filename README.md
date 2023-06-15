@@ -2,5 +2,5 @@
 - 💼 Trabalho com Desenvolvimento Salesforce;
 - 👀 Eu me interesso por Java;
 - 🌱 Atualmente estou aprendendo Midia Cloud e Omnistudio;
-- 🏆 Tenho experiência comm Analise Funcional;
+- 🏆 Tenho experiência como Analise Funcional;
 - 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
