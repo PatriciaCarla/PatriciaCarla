@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou a Patricia Carla;
 - 💼 Trabalho com Desenvolvimento Salesforce;
 - 👀 Eu me interesso por Java;
-- 🌱 Atualmente estou aprendendo Unity, Midia Cloud e Omnistudio;
+- 🌱 Atualmente estou aprendendo Midia Cloud e Omnistudio;
 - 🏆 Tenho experiência comm Analise Funcional;
 - 📫 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
